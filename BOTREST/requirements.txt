@@ -1,0 +1,9 @@
+aiogram
+sqlalchemy[asyncio]
+aiosqlite
+python-dotenv
+apscheduler
+httpx
+fastapi
+uvicorn
+itsdangerous
